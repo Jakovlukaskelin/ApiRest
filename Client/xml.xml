@@ -1,0 +1,48 @@
+<Rows>
+    <Row>
+        <Row_ID>1</Row_ID>
+        <Order_ID>CA-2016-152156</Order_ID>
+        <Order_Date>11/8/2016</Order_Date>
+        <Ship_Date>11/11/2016</Ship_Date>
+        <Ship_Mode>Second Class</Ship_Mode>
+        <Customer_ID>CG-12520</Customer_ID>
+        <Customer_Name>Claire Gute</Customer_Name>
+        <Segment>Consumer</Segment>
+        <Country>United States</Country>
+        <City>Henderson</City>
+        <State>Kentucky</State>
+        <Postal_Code>42420</Postal_Code>
+        <Region>South</Region>
+        <Product_ID>FUR-BO-10001798</Product_ID>
+        <Category>Furniture</Category>
+        <Sub_Category>Bookcases</Sub_Category>
+        <Product_Name>Bush Somerset Collection Bookcase</Product_Name>
+        <Sales>261.96</Sales>
+        <Quantity>2</Quantity>
+        <Discount>0</Discount>
+        <Profit>41.9136</Profit>
+    </Row>
+    <Row>
+        <Row_ID>2</Row_ID>
+        <Order_ID>CA-2016-152156</Order_ID>
+        <Order_Date>11/8/2016</Order_Date>
+        <Ship_Date>11/11/2016</Ship_Date>
+        <Ship_Mode>Second Class</Ship_Mode>
+        <Customer_ID>CG-12520</Customer_ID>
+        <Customer_Name>Claire Gute</Customer_Name>
+        <Segment>Consumer</Segment>
+        <Country>United States</Country>
+        <City>Henderson</City>
+        <State>Kentucky</State>
+        <Postal_Code>42420</Postal_Code>
+        <Region>South</Region>
+        <Product_ID>FUR-CH-10000454</Product_ID>
+        <Category>Furniture</Category>
+        <Sub_Category>Chairs</Sub_Category>
+        <Product_Name>Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back</Product_Name>
+        <Sales>731.94</Sales>
+        <Quantity>3</Quantity>
+        <Discount>0</Discount>
+        <Profit>219.582</Profit>
+    </Row>
+</Rows>

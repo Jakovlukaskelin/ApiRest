@@ -1,0 +1,76 @@
+<rng:grammar xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+	<rng:start combine="choice">
+		<rng:ref name="Orders"/>
+	</rng:start>
+	<rng:define name="Orders">
+		<rng:element name="Orders">
+			<rng:oneOrMore>
+				<rng:element name="Order">
+					<rng:element name="RowID">
+						<rng:data type="integer"/>
+					</rng:element>
+					<rng:element name="OrderID">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="OrderDate">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="ShipDate">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="ShipMode">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="CustomerID">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="CustomerName">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="Segment">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="Country">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="City">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="State">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="PostalCode">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="Region">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="ProductID">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="Category">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="SubCategory">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="ProductName">
+						<rng:data type="string"/>
+					</rng:element>
+					<rng:element name="Sales">
+						<rng:data type="decimal"/>
+					</rng:element>
+					<rng:element name="Quantity">
+						<rng:data type="integer"/>
+					</rng:element>
+					<rng:element name="Discount">
+						<rng:data type="decimal"/>
+					</rng:element>
+					<rng:element name="Profit">
+						<rng:data type="decimal"/>
+					</rng:element>
+				</rng:element>
+			</rng:oneOrMore>
+		</rng:element>
+	</rng:define>
+</rng:grammar>

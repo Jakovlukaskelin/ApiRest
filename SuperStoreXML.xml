@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+  <Order>
+    <RowID>1</RowID>
+    <OrderID>CA-2016-152156</OrderID>
+    <OrderDate>11/8/2016</OrderDate>
+    <ShipDate>11/11/2016</ShipDate>
+    <ShipMode>Second Class</ShipMode>
+    <CustomerName>ClaireGute</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Henderson</City>
+    <State>Kentucky</State>
+    <PostalCode>42420</PostalCode>
+    <Region>South</Region>
+    <ProductID>FUR-BO-10001798</ProductID>
+    <Category>Furniture</Category>
+    <SubCategory>Bookcases</SubCategory>
+    <ProductName>Bush Somerset Collection Bookcase</ProductName>
+    <Sales>261.96</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>41.9136</Profit>
+  </Order>
+  <Order>
+    <RowID>2</RowID>
+    <OrderID>CA-2016-152156</OrderID>
+    <OrderDate>11/8/2016</OrderDate>
+    <ShipDate>11/11/2016</ShipDate>
+    <ShipMode>Second Class</ShipMode>
+    <CustomerID>CG-12520</CustomerID>
+    <CustomerName>Claire Gute</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Henderson</City>
+    <State>Kentucky</State>
+    <PostalCode>42420</PostalCode>
+    <Region>South</Region>
+    <ProductID>FUR-CH-10000454</ProductID>
+    <Category>Furniture</Category>
+    <SubCategory>Chairs</SubCategory>
+    <ProductName>Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back</ProductName>
+    <Sales>731.94</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>219.582</Profit>
+  </Order>
+  <Order>
+    <RowID>4</RowID>
+    <OrderID>US-2015-108966</OrderID>
+    <OrderDate>10/11/2015</OrderDate>
+    <ShipDate>10/18/2015</ShipDate>
+    <ShipMode>Standard Class</ShipMode>
+    <CustomerID>SO-20335</CustomerID>
+    <CustomerName>Sean O'Donnell</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Fort Lauderdale</City>
+    <State>Florida</State>
+    <PostalCode>33311</PostalCode>
+    <Region>South</Region>
+    <ProductID>FUR-TA-10000577</ProductID>
+    <Category>Furniture</Category>
+    <SubCategory>Tables</SubCategory>
+    <ProductName>Bretford CR4500 Series Slim Rectangular Table</ProductName>
+    <Sales>957.5775</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0.45</Discount>
+    <Profit>-383.031</Profit>
+  </Order>
+  <Order>
+    <RowID>6</RowID>
+    <OrderID>CA-2014-115812</OrderID>
+    <OrderDate>6/9/2014</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Standard Class</ShipMode>
+    <CustomerID>BH-11710</CustomerID>
+    <CustomerName>Brosina Hoffman</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Los Angeles</City>
+    <State>California</State>
+    <PostalCode>90036</PostalCode>
+    <Region>West</Region>
+    <ProductID>FUR-FU-10001487</ProductID>
+    <Category>Furniture</Category>
+    <SubCategory>Furnishings</SubCategory>
+    <ProductName>Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood</ProductName>
+    <Sales>22.368</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>2.5164</Profit>
+  </Order>
+  <Order>
+    <RowID>7</RowID>
+    <OrderID>CA-2014-115812</OrderID>
+    <OrderDate>6/9/2014</OrderDate>
+    <ShipDate>
+			6/14/2014</ShipDate>
+    <ShipMode> Class</ShipMode>
+    <CustomerID>BH-11710</CustomerID>
+    <CustomerName>Brosina Hoffman</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Los Angeles</City>
+    <State>California</State>
+    <PostalCode>90036</PostalCode>
+    <Region>West</Region>
+    <ProductID>OFF-AR-10002833</ProductID>
+    <Category>Office Supplies</Category>
+    <SubCategory>Art</SubCategory>
+    <ProductName>Newell 339</ProductName>
+    <Sales>48.86</Sales>
+    <Quantity>7</Quantity>
+    <Discount>0</Discount>
+    <Profit>14.1694</Profit>
+  </Order>
+  <Order>
+    <RowID>8</RowID>
+    <OrderID>CA-2014-115812</OrderID>
+    <OrderDate>6/9/2014</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Premium Class</ShipMode>
+    <CustomerID>BH-11710</CustomerID>
+    <CustomerName>Brosina Hoffman</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Los Angeles</City>
+    <State>California</State>
+    <PostalCode>90036</PostalCode>
+    <Region>West</Region>
+    <ProductID>OFF-BI-10003910</ProductID>
+    <Category>Office Supplies</Category>
+    <SubCategory>Binders</SubCategory>
+    <ProductName>Acco Six-Outlet Power Strip, 4' Cord</ProductName>
+    <Sales>7.28</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>-1.592</Profit>
+  </Order>
+  <Order>
+    <RowID>10</RowID>
+    <OrderID>CA-2017-114412</OrderID>
+    <OrderDate>4/15/2017</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Premium Class</ShipMode>
+    <CustomerID>AA-10480</CustomerID>
+    <CustomerName>Andrew Allen</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Concord</City>
+    <State>North Carolina</State>
+    <PostalCode>28027</PostalCode>
+    <Region>South</Region>
+    <ProductID>FUR-TA-10001539</ProductID>
+    <Category>Furniture</Category>
+    <SubCategory>Tables</SubCategory>
+    <ProductName>Chromcraft Rectangular Conference Tables</ProductName>
+    <Sales>957.5775</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0.45</Discount>
+    <Profit>-383.031</Profit>
+  </Order>
+  <Order>
+    <RowID>11</RowID>
+    <OrderID>CA-2016-161389</OrderID>
+    <OrderDate>12/5/2016</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Premium Class</ShipMode>
+    <CustomerID>IM-15070</CustomerID>
+    <CustomerName>Irene Maddox</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Seattle</City>
+    <State>Washington</State>
+    <PostalCode>98103</PostalCode>
+    <Region>West</Region>
+    <ProductID>OFF-LA-10000240</ProductID>
+    <Category>Office Supplies</Category>
+    <SubCategory>Labels</SubCategory>
+    <ProductName>Self-Adhesive Address Labels for Typewriters by Universal</ProductName>
+    <Sales>14.62</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.8714</Profit>
+  </Order>
+  <Order>
+    <RowID>12</RowID>
+    <OrderID>CA-2016-161389</OrderID>
+    <OrderDate>12/5/2016</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Premium Class</ShipMode>
+    <CustomerID>IM-15070</CustomerID>
+    <CustomerName>Irene Maddox</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Seattle</City>
+    <State>Washington</State>
+    <PostalCode>98103</PostalCode>
+    <Region>West</Region>
+    <ProductID>FUR-CH-10000454</ProductID>
+    <Category>Furniture</Category>
+    <SubCategory>Chairs</SubCategory>
+    <ProductName>Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back</ProductName>
+    <Sales>35.97</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.45</Discount>
+    <Profit>-26.36</Profit>
+  </Order>
+  <Order>
+    <RowID>13</RowID>
+    <OrderID>CA-2016-161389</OrderID>
+    <OrderDate>12/5/2016</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Premium Class</ShipMode>
+    <CustomerID>IM-15070</CustomerID>
+    <CustomerName>Irene Maddox</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>Seattle</City>
+    <State>Washington</State>
+    <PostalCode>98103</PostalCode>
+    <Region>West</Region>
+    <ProductID>OFF-ST-10000760</ProductID>
+    <Category>Office Supplies</Category>
+    <SubCategory>Storage</SubCategory>
+    <ProductName>Eldon Fold 'N Roll Cart System</ProductName>
+    <Sales>25.248</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>5.4432</Profit>
+  </Order>
+  <Order>
+    <RowID>14</RowID>
+    <OrderID>CA-2015-106320</OrderID>
+    <OrderDate>6/9/2015</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Premium Class</ShipMode>
+    <CustomerID>HP-14815</CustomerID>
+    <CustomerName>Harold Pawlan</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>San Francisco</City>
+    <State>California</State>
+    <PostalCode>94109</PostalCode>
+    <Region>West</Region>
+    <ProductID>FUR-FU-10001487</ProductID>
+    <Category>Furniture</Category>
+    <SubCategory>Furnishings</SubCategory>
+    <ProductName>Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood</ProductName>
+    <Sales>48.86</Sales>
+    <Quantity>7</Quantity>
+    <Discount>0</Discount>
+    <Profit>14.1694</Profit>
+  </Order>
+  <Order>
+    <RowID>15</RowID>
+    <OrderID>CA-2017-121755</OrderID>
+    <OrderDate>11/11/2017</OrderDate>
+    <ShipDate>6/14/2014</ShipDate>
+    <ShipMode>Premium Class</ShipMode>
+    <CustomerID>PK-19075</CustomerID>
+    <CustomerName>Patrick Jones</CustomerName>
+    <Segment>Consumer</Segment>
+    <Country>United States</Country>
+    <City>San Francisco</City>
+    <State>California</State>
+    <PostalCode>94115</PostalCode>
+    <Region>West</Region>
+    <ProductID>OFF-BI-10003910</ProductID>
+    <Category>Office Supplies</Category>
+    <SubCategory>Binders</SubCategory>
+    <ProductName>Acco Six-Outlet Power Strip, 4' Cord</ProductName>
+    <Sales>38.2</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>-7.256</Profit>
+  </Order>
+</Orders>
